@@ -5,7 +5,6 @@ A clean, functional calculator built with HTML, CSS, and JavaScript. It supports
 
 ## Features
 - Addition, subtraction, multiplication, division
-- Keyboard support
 - Mobile responsive design
 
 ## Technologies Used
